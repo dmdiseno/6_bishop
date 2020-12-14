@@ -1,0 +1,60 @@
+/*......extralayer.css.............*/
+.tp-caption.white_heavy_70 {
+font-size:70px;
+line-height:70px;
+font-weight:400;
+font-family:'Open Sans', sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:3px 3px 8px #afafaf ;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+.tp-caption.white_thin_34 {
+font-size:45px;
+line-height:35px;
+font-weight:600;
+letter-spacing:5px;
+font-family:'Open Sans', sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+text-shadow:3px 3px 8px #afafaf ;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+/*.....style css...............*/
+.page-header p{
+	font-size:30px;
+	font-family:'Old Standard TT', sans-serif;
+	font-weight:400;
+	color:#006ead;
+	font-style:italic;
+	padding-top:14px;
+}
+.filter-menu-box ul li a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	line-height: 25px;
+	font-weight: 700;
+	color:#006dadd3;
+	padding: 15px 15px;
+	border:2px solid transparent;
+	text-transform:uppercase;
+	display: block;
+	-moz-transition: all 0.17s ease-in-out;
+	-webkit-transition: all 0.17s ease-in-out;
+	-o-transition: all 0.17s ease-in-out;
+	transition: all 0.17s ease-in-out;
+    }
+.one-col-hover figure img{
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	width: auto;
+	height: auto;
+	}
+

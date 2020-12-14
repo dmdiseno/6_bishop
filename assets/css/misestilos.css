@@ -1,0 +1,106 @@
+.container p{
+    color: rgb(0, 0, 0);
+    background-color: rgba(245, 245, 245, 0.534);
+    border-radius: 3px;
+}
+.text-center p{
+    background-color: transparent;
+}
+/*Start Footer Section*/
+
+.footer-1-left p, .footer-recent p, .footer-1-category ul
+{
+    background-color: rgba(196, 184, 171, 0.5);
+    width: 262,5px;
+    height: auto;
+    padding-left: 5px;
+    border-radius: 3px;
+
+}
+address strong{
+    color:white;
+    font-weight: bolder;
+   
+}
+/* .footer-bottom p {
+     color:white;
+    font-weight: bolder;
+} */
+.footer-1-contact p span, .footer-bottom p {
+     color:white;
+    font-weight: bolder;
+   
+}
+.footer-heading h5{
+    color:white;
+    font-weight: bolder;
+    background: rgba(95, 207, 235, 0.780);
+    padding: 5px;
+    border-radius: 4px;
+
+}
+.footer-1-category ul li a{
+    color: black;
+}
+.footer-1 address > strong{
+    background: rgba(95, 207, 235, 0.780);
+    padding: 5px;
+    border-radius: 4px;
+}
+.footer-1-contact span{
+    background: rgba(95, 207, 235, 0.780);
+    padding: 5px;
+    border-radius: 4px;
+}
+.text-center a{
+    color: white;
+    padding: 3px 3px;
+    transition-delay: 0.2s;
+
+}
+.text-center a:hover{
+    background-color: rgba(250, 255, 255, 0.384);
+    border-radius: 3px;
+
+}
+
+/*Start Service Section*/
+#service-1{
+    background-image: url(../images/patron.png);
+}
+.page-header-1 h1{
+    color: black;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.336);
+    word-spacing: 1em;
+    font-size: 35px;
+    font-weight: bolder;
+    background: ;
+}
+.service-bottom h4{
+    color: black;
+}
+/*Start Feature Section */
+.section-gap{
+    background-image: url(../images/patron.png);
+    background-repeat: repeat;
+    }
+/* Start Index Creative Section */
+.page-header h4{
+font-variant: small-caps;
+color: black;
+font-style: italic;
+}
+
+/*Start Welcome section */
+#welcome {
+    background-color: #faf8fb;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='199' viewBox='0 0 100 199'%3E%3Cg fill='%23e4dcf2' fill-opacity='0.4'%3E%3Cpath d='M0 199V0h1v1.99L100 199h-1.12L1 4.22V199H0zM100 2h-.12l-1-2H100v2z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+}
+/* Start Index Creative Section */
+section{
+    background-color: #faf8fb;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='199' viewBox='0 0 100 199'%3E%3Cg fill='%23e4dcf2' fill-opacity='0.4'%3E%3Cpath d='M0 199V0h1v1.99L100 199h-1.12L1 4.22V199H0zM100 2h-.12l-1-2H100v2z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+
+}
+.breadcrum-content-1back {
+    background-image: url(../../assets/images/breadcrum-1.jpg)}

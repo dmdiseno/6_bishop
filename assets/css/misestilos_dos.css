@@ -1,0 +1,8 @@
+section .container
+{
+    background-image: url(../../assets/images/fondo.png);
+}
+.breadcrum-content-1back
+{
+    height: 600px;
+}

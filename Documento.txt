@@ -1,0 +1,11 @@
+
+ 
+TRABAJO DE PLANTILLA PROFESIONAL.
+
+Dada la plantilla disponible, crear un proyecto de tema libre con un mínimo de los siguientes apartados:
+
+Página de presentación.
+Tres páginas secundarias.
+Una página funcional (blog, galería, tienda...)
+Una página de contacto.
+El material entregado tiene que estar personalizado tanto en textos como en imágenes (no valen textos aleatorios) y no pueden contener archivos de páginas ni elementos de página no utilizados.
